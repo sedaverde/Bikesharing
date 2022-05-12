@@ -1,9 +1,9 @@
 # Bike Sharing Analysis
 
 ## Overview
-The purpose of this analysis is to help secure investors for a bike sharing venture in Des Moines. At the request of key stakeholder, additional analysis was performed to provide more relevant information to strengthen the proposal.
+The purpose of this analysis is to help secure investors for a bike sharing venture in Des Moines. At the request of the key stakeholder, additional analysis was performed to provide more relevant information to strengthen the proposal.
 
-Pandas was used to convert the duration into a datetime to provide and hour and minute for the duration. The information was then used in Tableau to create several different visualization as outlines below.
+Pandas was used to convert the duration into a datetime to provide an hour and minute. Tableau was used to create several different visualization as outlined below.
 
 Results:
 
